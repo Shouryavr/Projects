@@ -1,1 +1,8 @@
+Predicting loan approval for Lending Club
+
+With a team of 3, we designed an investment strategy, different from LC bucket strategy to predict if a loan will lead to 
+‘Charged Off’ or ‘Fully Paid’ applying machine learning techniques.
+We achieved an area under ROC of 93.63% and f1 score of 0.82 on random forest model
+
+Here's the link to the website with final project presentation:
 https://sites.google.com/view/cs109alendingclubgroup26fall18/home?authuser=0
