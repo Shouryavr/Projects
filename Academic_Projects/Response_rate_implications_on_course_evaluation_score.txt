@@ -1,0 +1,21 @@
+Response rate implications on average course evaluation score
+
+Summary:
+ Explored relationship between response rate and average score applying statistical techniques using SPSS that explained the implications of dropping response rates on validity and applicability of findings on quality improvement efforts
+
+
+Here's the link to the youtube video with project presentation:
+https://www.youtube.com/watch?v=Jq-toLdFrgE&list=PLP9cNyR4MQKbZSK5wuNUSuOBtxZvWWUrg&index=3&t=504s
+
+
+
+What is the DataSet?
+City University of Seattle is a commuter school mostly serving working adults in western Washington State. Evaluation information for 1,466 courses that were taught and evaluated at City University of Seattle between summer 2017 and spring 2018. 
+
+What is your population?
+Our population will be the courses (and instructors) from adult-focused commuter schools that are similar to City University of Seattle. For our results to be generalizable, we will limit our population to those universities that primarily teach adults, have a large portion of their students who are taking their programs online, and who do not offer many of the services of a traditional university.
+
+What will be your sample?
+Our sample will be 1,466 evaluated courses from City University of Seattle that were taught during the 2017-2018 academic year that includes four quarters.
+
+

@@ -1,0 +1,8 @@
+Predicting loan approval for Lending Club and created a new bucketless ROI strategy
+
+SUMMARY:
+Designed an investment strategy to predict if a loan will lead to ‘Charged Off’ or ‘Fully Paid’ on a 7GB training dataset. Experimented with several supervised machine learning models and achieved best f1 score of 82% with random forest
+
+Link to the website:
+-----------------------------------
+https://sites.google.com/view/cs109alendingclubgroup26fall18/home?authuser=0
